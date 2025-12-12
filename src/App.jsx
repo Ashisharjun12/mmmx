@@ -15,12 +15,12 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Gemini Chatbot</h1>
+      <h1>Gemini Chatbot edjjdksjyds</h1>
       <div className="card">
         <Chatbot />
       </div>
       <p className="read-the-docs">
-        Powered by Google GenAI
+        Powered by Google GenAInnmmd
       </p>
     </>
   )
