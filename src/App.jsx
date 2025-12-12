@@ -20,7 +20,7 @@ function App() {
         <Chatbot />
       </div>
       <p className="read-the-docs">
-        Powered by Google GenAInnmmd
+        Powered by Google GenAInnmmdmmm,,,,,
       </p>
     </>
   )
